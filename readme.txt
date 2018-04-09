@@ -3,4 +3,4 @@ Git is free software.
 
 git reset going on.
 
-1
+Creating a new branch is quick.
